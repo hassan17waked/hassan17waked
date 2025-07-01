@@ -21,7 +21,7 @@ I'm a passionate **Data Scientist & Machine Learning Engineer** with over **3 ye
 
 ---
 
-## 🧰 My Toolbox
+## 🧰 My Skills
 
 **Languages:** Python, SQL, Java, C, Flutter  
 **ML/DL:** Scikit-learn, TensorFlow, XGBoost, PyTorch  
@@ -32,7 +32,7 @@ I'm a passionate **Data Scientist & Machine Learning Engineer** with over **3 ye
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 My Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
