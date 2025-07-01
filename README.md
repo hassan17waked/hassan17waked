@@ -36,11 +36,11 @@ I'm a passionate **Data Scientist & Machine Learning Engineer** with over **3 ye
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [💳 Bank Churn Prediction](#) | Predicting churn with 95% accuracy, deployed with Streamlit | MLflow, XGBoost, Streamlit |
+| [💳 Bank Churn Analysis and Prediction](#) | Predicting churn with 95% accuracy, deployed with Streamlit | MLflow, XGBoost, Streamlit |
 | [💵 Egyptian Currency Detector](#) | Real-time object detection using YOLOv5 | YOLOv5, OpenCV |
 | [😷 Face Mask Detection](#) | Live mask detection during COVID-19 | TensorFlow, CNN |
 | [🩸 Blood Disease Classifier](#) | 94% accurate model classifying blood diseases | Random Forest, Pandas |
-| [🏠 House Price Prediction](#) | Regression model on US housing data | Scikit-learn, XGBoost |
+| [🏠 House Price Analysis and Prediction](#) | Regression model on US housing data | Scikit-learn, XGBoost |
 
 ---
 
