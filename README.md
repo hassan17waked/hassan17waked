@@ -27,7 +27,7 @@ I'm a passionate **Data Scientist & Machine Learning Engineer** with over **3 ye
 **ML/DL:** Scikit-learn, TensorFlow, XGBoost, PyTorch  
 **MLOps:** MLflow, Databricks, FastAPI, Streamlit Cloud  
 **Databases:** MySQL, PostgreSQL, SQL Server  
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+**Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Plotly  
 **Tools:** Git, GitHub, Jupyter, Google Colab
 
 ---
