@@ -51,12 +51,13 @@ I'm a passionate **Data Scientist & Machine Learning Engineer** with over **3 ye
 
 ---
 
-## 🎓 Certifications
+## 🏅 Certifications
 
-- 🧠 IBM Advanced AI & Data Science – DEPI
-- 🏅 Data Scientist Professional – DotPy
-- 🧪 Machine Learning – Mentorness India
-- 💡 AI Bootcamp – Land Science
+- 📜 [IBM AI & Data Science Advanced – DEPI (2025)](https://drive.google.com/file/d/1oaFLFxi9YFlXGF8Tl2BQcRofqoMXASJS/view?usp=sharing)
+- 🎓 [Data Scientist Professional – DotPy (2024)](https://drive.google.com/file/d/1p_hIFO0XaqsSSXopjE0No0fiKmbodgjD/view?usp=sharing)
+- 🧪 [AI & Data Science Bootcamp – Land Science (2024)](https://drive.google.com/file/d/1dUdBn0jiUL7f4P-W6ygbKfM5ipN_hBQ5/view?usp=sharing)
+- 🤖 [Machine Learning – Mentorness (India)(2024)](https://drive.google.com/file/d/14P53AyCWfUbAmZyoIOKR5dteQHqfSv6v/view?usp=sharing)
+
 
 ---
 
