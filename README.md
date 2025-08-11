@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hassan Waked
 
-🎯 **Data Scientist | ML Engineer | AI Instructor**  
+🎯 **Data Scientist | Data Analyst | AI Engineer | AI Instructor**  
 📍 Cairo, Egypt | 🌍 Open to remote & on-site opportunities
 
 ---
